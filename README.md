@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-first time using github
+Newbie for github
